@@ -157,7 +157,9 @@
       "curl/7.68.0": 135,
       "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)": 136,
       "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)": 137,
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0": 138
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0": 138,
+      "sqlmap/1.4.11": 139,
+      "Nikto/2.1.6": 140
     }
   }
 }
