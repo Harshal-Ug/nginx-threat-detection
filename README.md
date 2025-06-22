@@ -2,7 +2,8 @@
 
 A lightweight system to detect security anomalies (like brute-force or DDoS attacks) from NGINX access logs using unsupervised machine learning.
 
-[Demo](Demo_Video.mp4)
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1sqEeQoO60Xjw3RXi0Ek4CpycfFd5zj5Z/view?usp=sharing)
+
 ![streamlit manual_inspector](screenshot/streamlit_output.png)
 
 
